@@ -1,0 +1,2 @@
+# CPU evaluation and prediction validation
+numpy>=1.24,<3
